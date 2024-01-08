@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Minh, an AI Enthusiast. 
 
-+ 🔭 I am currently working on beetle detection using deep learning. 
-+ 🌱 I am currently working with **YOLOv8**, which is a well-known AI framework in Computer Vision, to detect any beetles that user can see over-road. 
++ 🔭 I am currently building an AI-agent for summarizing documents. My main focused is on short documents, for instance, a blog or a news. 
++ 🌱 I am now working with **huggingface** due of its robustness in the natural language processing sector, particularly with the `transformers` library. 
 + ⚡ Programming, in my opinion, is about expressing movements in the outside world in the simplest, most logical manner possible. Programming is like playing music; we translate our own dreams into technology, enthralling users and inspiring them to sing harmoniously about the world's future.
 
 ### 📫 How to reach me:
