@@ -9,3 +9,9 @@
 + **Gmail**: minh.leduc.0210@gmail.com
 + **Linkedin**: https://www.linkedin.com/in/minh-le-duc-a62863172/
 + **Medium**: https://medium.com/@octoopt_8888
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+</p>
