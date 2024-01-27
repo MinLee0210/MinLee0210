@@ -1,4 +1,4 @@
-### Hi there 👋 I am Minh, an AI Enthusiast. 
+### Hi there 👋 I am Minh, a frehser AI Engineer.
 
 + 🔭 I am currently building an AI-agent for summarizing documents. My main focused is on short documents, for instance, a blog or a news. 
 + 🌱 I am now working with **huggingface** due of its robustness in the natural language processing sector, particularly with the `transformers` library. 
