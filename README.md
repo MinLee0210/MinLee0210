@@ -4,8 +4,6 @@ I'm obsessed with diving into the latest research and building tools that push t
 
 This is my digital lab 🔬, where I experiment with ground-breaking AI techniques and chase the hottest advancements in the field. Get ready for some serious code explorations, research rabbit holes, and projects that challenge the status quo.
 
-[![OctoOpt's GitHub | Stats](https://stats.quira.sh/OctoOpt/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=OctoOpt)
-
 
 Here's what you'll find in this treasure trove:
 
@@ -25,6 +23,3 @@ Together, let's push the boundaries of AI and build a future filled with incredi
 + **Medium**: https://medium.com/@octoopt_8888
 
 
-[![OctoOpt's GitHub | Languages Over Time](https://stats.quira.sh/OctoOpt/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=OctoOpt)
-
-[![OctoOpt's GitHub | Topics Over Time](https://stats.quira.sh/OctoOpt/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=OctoOpt)
